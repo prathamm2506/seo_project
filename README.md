@@ -58,11 +58,6 @@ ECM/
 └── Lighthouse Report Viewer.pdf  # Performance audit report
 ```
 
-## 🎯 Deployment
-- **Zero Setup**: Upload `index.html` to GitHub Pages, Netlify, Vercel.
-- **Custom Domain**: Perfect for SEO (e.g., topcollegesmumbai.in).
-- **Analytics**: Add Google Analytics/Tag Manager easily.
-
 ## 📊 Performance & SEO Metrics
 - **Estimated Lighthouse Scores** (from PDF report): 95+ Performance, 100 Accessibility, 100 Best Practices.
 - **SEO Targets**: Ranks for \"top colleges in Mumbai 2024\", \"best engineering colleges Mumbai\".
@@ -74,17 +69,8 @@ ECM/
 - **Performance**: Achieved sub-1s load by avoiding JS/fonts bloat.
 - **Content Accuracy**: Curated verified data from NIRF 2024 & official sites.
 
-## 🔮 Future Enhancements
-- Add JavaScript: Search/filter colleges, dark mode toggle.
-- Filters: By stream (Engineering/Arts), sort by NIRF rank.
-- PWA: Offline support for mobile users.
-- CMS Integration: Dynamic data from Airtable/Google Sheets.
 
-## 📞 Contact
-Pratham - Front-End Developer  
-[LinkedIn] \| [Portfolio] \| pratham@example.com
 
 ---
 
-*Built with ❤️ for educational showcase. Data sourced from NIRF 2024 & official sites.*
 
